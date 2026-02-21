@@ -1,6 +1,6 @@
 # InsightNews 📰
 
-A production-ready **Native Android** application featuring AI-powered summarization, built with modern Android development best practices and senior-level architecture.
+**Native Android** application featuring AI-powered summarization, built with modern Android development best practices and senior-level architecture.
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.9-7F52FF?logo=kotlin)
 ![Jetpack Compose](https://img.shields.io/badge/Compose-Material%203-4285F4)
