@@ -1,0 +1,7 @@
+## Copy this file to local.properties and add your API key
+## local.properties is in .gitignore - never commit real API keys!
+
+sdk.dir=C\:\\Users\\YOUR_USERNAME\\AppData\\Local\\Android\\Sdk
+
+# Get your free GNews API key from https://gnews.io/
+NEWS_API_KEY=your_key_here
